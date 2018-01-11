@@ -11,6 +11,6 @@
 
   ],
   "buildpacks": [
-    https://github.com/heroku/salesforce-buildpack,
+    "url": https://github.com/heroku/salesforce-buildpack,
   ]
 }
