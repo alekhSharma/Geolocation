@@ -6,8 +6,5 @@
   "env": {
   },
   "formation": {
-  },
-  "addons": [
-    "salesforce:standard"
-  ]
+  }
 }
