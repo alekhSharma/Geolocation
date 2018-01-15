@@ -9,10 +9,5 @@
   },
   "addons": [
     "salesforce:standard"
-  ],
-  "buildpacks": [
-    {
-      "url": "https://github.com/heroku/salesforce-buildpack"
-    }
   ]
 }
